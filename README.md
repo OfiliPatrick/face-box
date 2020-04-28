@@ -1,2 +1,2 @@
 # Smart-Brain
-This is a face Recognition Web App
+A Facial Feature detector Web App
